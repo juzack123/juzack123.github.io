@@ -1,5 +1,5 @@
 body {
-	background: #00ff00;
+	background: #CCCCCC;
 	font-size: 100px
 	font-family: Helvetica, Arial, "Comic Sanes";
 }
@@ -17,7 +17,7 @@ H4 {
 	font-size: 40px
 }
 	.shape {
-		background: #00ff00;
+		background: #cccccc;
 		height: 500px;
 		width: 300px;
 		padding-left: 10px;
