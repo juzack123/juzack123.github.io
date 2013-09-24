@@ -1,0 +1,46 @@
+body {
+	background: green;
+	font-family: Comic-sans, Sans serif;
+}
+.my-essay {
+	margin: 20px 300px;
+	font-size: 40px;
+	line-height: 1.7em
+
+	}
+	.my-essay p {
+		color:red;
+
+}
+
+p[
+]
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 2em;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 3em 0 1.5em 0;
+}
+
+i {
+	font-style: italic;
+	color: purple;
+}
+
+.emphasis {
+
+}
+
+blockquote {
+	font-style: italic;
+	font-size: 1.5em;
+	border-left: 3px solid purple;
+	margin: 1.5em 0;
+	padding: 0 0 0 2em;
+}
