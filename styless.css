@@ -1,0 +1,10 @@
+body {
+	background: #FFFFFF;
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	margin: 50px 350px;
+}
+.image.a{
+	max-width:100%; max-height:100%;
+}
+<h1 class="museo-slab">
