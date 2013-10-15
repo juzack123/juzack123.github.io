@@ -4,7 +4,7 @@ body {
 /}
 
 .my-essay {
-	margin: 20px 300px;
+	margin: 20px 185px;
 	font-size: 15px;
 	line-height: 1.7em;
 
@@ -16,42 +16,170 @@ body {
 	font-family: Times, serif;
 
 }
-
-
-h1 {
-	font-size: 2.0em;
-	font-weight: bold;
-	letter-spacing: 3px;
-	margin: 3em 0 1.5em 0;
-	text-transform:uppercase;
-	text-align: center;
-	font-family: "museo-slab";
-	
+.my-essay1  {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
 }
+.my-essay1 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay2 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay3 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay4 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay5 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay6 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay7 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay8 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay9 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay10 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay99 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay88 p {
+	color: black;
+	font-family: Times, serif;
+
+}
+.my-essay2  {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay3  {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay4  {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay5  {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay6  {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay88  {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay99  {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay7 {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay8 {
+	margin: 20px 185px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay9 {
+	margin: 20px 280px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+.my-essay10 {
+	margin: 20px 180px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
+
 
 h2 {
 	font-size: 1.5em;
 	font-weight: bold;
 	letter-spacing: 3px;
 	text-transform: uppercase;
-	text-align: center;
+	
 	margin: 3em 0 1.5em 0;
 }
 h3 {font-size: 1.5em;
 	font-weight: bold;
 	letter-spacing: 3px;
 	text-transform: uppercase;
-	text-align: center;
+	
 	margin: 3em 0 1.5em 0;
 }
+h4 {font-size: 1.5em;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	
+	margin: 3em 0 1.5em 0;
+}
+h5 {font-size: 1.5em;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	
+	margin: 3em 0 1.5em 0;
+}
+h6 {font-size: 1.5em;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	
+	margin: 3em 0 1.5em 0;
+
 
 i {
 	font-style: italic;
 }
 
-.emphasis {
 
-}
 
 blockquote {
 	font-style: italic;
