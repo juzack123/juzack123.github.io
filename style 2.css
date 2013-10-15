@@ -136,6 +136,9 @@ body {
 	font-size: 15px;
 	line-height: 1.7em;
 }
+p {
+	margin: 3em 0 4em 0;
+}
 
 
 h2 {
