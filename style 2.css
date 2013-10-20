@@ -138,10 +138,22 @@ body {
 	font-size: 15px;
 	line-height: 1.7em;
 }
+.my-essay11 {
+	margin: 20px 450px;
+	font-size: 15px;
+	line-height: 1.7em;
+}
 p {
 	margin: 3em 0 4em 0;
+	display: block;
 }
+.image {
+	margin: absolute;
+	margin: center;
+}
+.p {
 
+}
 
 h2 {
 	font-size: 1.5em;
