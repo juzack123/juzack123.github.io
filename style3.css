@@ -1,35 +1,71 @@
 body {
 	background: white;
 	font-family: Helvetica, sans-serif;
+	color: #ff0234;
+	background: #ff0234;
+	padding: 2% 10% 12%;
+
+}
+.background  {
 	position: absolute;
-
-
-
+	width: 100%;
+	height: 240px;
+	background-color: #3B3B3C;
+}
+.container {
+	width: 1200px;
+	margin: 150px;
+	position: relative;
+	background: white;
+	top:0;
+}
+li.student a{
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px solid #999;
+}
+li.student a {
+	color:pink;
+}
+li.student:hover {
+	background: #fff;
+}
+ul.student-list {
+	list-style: none;
+	padding: 0 20%;
+	margin: 0;
+	font-size: 2em;
 
 }
-.good2 {
-	margin: 20px 350px;
-	font-size: 15px;
-	line-height: 1.7em;
+li.student img.amealylogo.jpg {
+	position: absolute;
+	height: 100%;
+	top: 0;
+	left: -3em;
+
 }
-.good1 {
-	margin: 20px 250px;
-	font-size: 15px;
-	line-height: 1.7em;
+li.student a.code-link {
+	font-size:20 ;
+	padding: 0.2em 0.5em;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	background: #000;
+	float: right;
+	position: absolute;
+	right: 1em;
+	top: 50%;
+	margin-top: -0.5em;
+	border-radius: 0.2em;
+	transition: all 0.2s;
+
 }
-.head {
-	margin: 20px 500px;
-	font-size: 15px;
-	line-height: 1.7em;
-	
-}
-.head2 {
-	margin: 20px 150px;
-	font-size: 15px;
-	line-height: 1.7em;
+li.student a.code-link:hover {
+	background-color: #307Bdb;
+	font-size: 0.8em;
+
 }
 .my-essay26 {
-	margin: 20px 150px;
+	margin: 20px 150;
 	font-size: 15px;
 	line-height: 1.7em;
 }
@@ -119,7 +155,7 @@ body {
 .my-essay2  {
 	margin: 20px 220px;
 	font-size: 15px;
-	line-height: 1.5em;
+	line-height: 1.7em;
 }
 .my-essay3  {
 	margin: 20px 220px;
@@ -186,12 +222,6 @@ body {
 	font-size: 15px;
 	line-height: 1.7em;
 
-
-}
-.my-essay14 {
-	margin: 20px 120px;
-	font-size: 15px;
-	line-height: 1.7em;
 }
 p {
 	margin: 3em 0 4em 0;
@@ -199,7 +229,7 @@ p {
 }
 .image {
 	margin: absolute;
-	margin: ;
+	margin: center;
 }
 .p {
 
