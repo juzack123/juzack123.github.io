@@ -40,15 +40,15 @@ ul.student a.code-link {
 	border-radius: 0.2em;
 	transition: all 0.2s;
 
-	margin: 20px 400px 2.5px 450px;
+	margin: 20px 400px 2.5px 400px;
 
 }
 
 h2 {
-	font-size: 1.0em;
+	font-size: 0.7em;
 	font-weight: bold;
 	letter-spacing: 3px;
 	text-transform: uppercase;
 	
-	margin: 20px 270px;
+	margin: 20px 300px;
 
