@@ -5,27 +5,34 @@ body {
 
 
 
-
 }
+.my-essay34 {
+	margin: 20px 180px;
+	font-size: 15px;
+	line-height: 1.7em;
+
+	
+}
+
 .good2 {
-	margin: 20px 350px;
+	margin: 20px 320px;
 	font-size: 15px;
 	line-height: 1.7em;
 }
 .good1 {
-	margin: 20px 250px;
+	margin: 20px 220px;
 	font-size: 15px;
 	line-height: 1.7em;
 }
 .head {
-	margin: 20px 500px;
-	font-size: 15px;
-	line-height: 1.7em;
+	margin: 20px 520px;
+	font-size: 13px;
+	line-height: 1.5em;
 	
 }
 .head2 {
-	margin: 20px 150px;
-	font-size: 15px;
+	margin: 20px 550px;
+	font-size: 12px;
 	line-height: 1.7em;
 }
 .my-essay26 {
@@ -41,7 +48,7 @@ body {
 
 	}
 .my-essay25 {
-	margin: 20px 330px;
+	margin: 20px 260px;
 	font-size: 15px;
 	line-height: 1.7em;
 }
@@ -172,7 +179,7 @@ body {
 	line-height: 1.7em;
 }
 .my-essay11 {
-	margin: 20px 450px;
+	margin: 20px 350px;
 	font-size: 15px;
 	line-height: 1.7em;
 }
@@ -206,23 +213,23 @@ p {
 }
 
 h2 {
-	font-size: 1.5em;
+	font-size: 1.2em;
 	font-weight: bold;
-	letter-spacing: 3px;
+	letter-spacing: 0.5px;
 	text-transform: uppercase;
 	
 	margin: 3em 0 1.5em 0;
 }
 h3 {font-size: 1.5em;
 	font-weight: bold;
-	letter-spacing: 3px;
+	letter-spacing: 0.5px;
 	text-transform: uppercase;
 	
 	margin: 3em 0 1.5em 0;
 }
-h4 {font-size: 1.5em;
+h4 {font-size: 1.3em;
 	font-weight: bold;
-	letter-spacing: 3px;
+	letter-spacing: 1px;
 	text-transform: uppercase;
 	
 	margin: 3em 0 1.5em 0;
